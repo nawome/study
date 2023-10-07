@@ -1,0 +1,166 @@
+/******************
+* date : 2023.10
+******************/
+
+/***** FONT | Notosans Kr  *****/
+/* 
+font-family: Noto Sans Kr
+font-weight: Thin(100), Light(300), Regular(400), Medium(500), Bold(700), Black(900);
+*/
+
+
+@font-face {
+    font-family: "Noto Sans Kr";
+    src: url("../font/NotoSansKr-Thin.woff2") format('woff2'),
+         url("../font/NotoSansKr-Thin.woff") format('woff');
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "Noto Sans Kr";
+    src: url("../font/NotoSansKr-Light.woff2") format('woff2'),
+         url("../font/NotoSansKr-Light.woff") format('woff');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+/* Noto Sans CJK Kr에만 제공되는 폰트(Light보다 굵은 폰트)
+@font-face {
+    font-family: "Noto Sans Kr";
+    src: url("../font/NotoSansKr-DemiLight.woff2") format('woff2'),
+         url("../font/NotoSansKr-DemiLight.woff") format('woff');
+    font-weight: 300;
+    font-style: normal;
+
+}
+ */
+
+
+@font-face {
+    font-family: "Noto Sans Kr";
+    src: url("../font/NotoSansKr-Regular.woff2") format('woff2'),
+         url("../font/NotoSansKr-Regular.woff") format('woff');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "Noto Sans Kr";
+    src: url("../font/NotoSansKr-Medium.woff2") format('woff2'),
+         url("../font/NotoSansKr-Medium.woff") format('woff');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: "Noto Sans Kr";
+    src: url("../font/NotoSansKr-Bold.woff2") format('woff2'),
+         url("../font/NotoSansKr-Bold.woff") format('woff');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: "Noto Sans Kr";
+    src: url("../font/NotoSansKr-Black.woff2") format('woff2'),
+         url("../font/NotoSansKr-Black.woff") format('woff');
+    font-weight: 900;
+    font-style: normal;
+
+}
+
+/***** FONT | Apple SD Gothic Neo  *****/
+/* 
+font-family: Apple SD Gothic Neo
+font-weight: Thin(100), UltraLight(200), Light(300), Regular(400), Medium(500), SemiBold(600), Bold(700), ExtraBold(800), Heavy(900);
+*/
+
+
+@font-face {
+    font-family: "Apple SD Gothic Neo";
+    src: url("../font/AppleSdGothicNeo_Thin.woff2") format('woff2'),
+         url("../font/AppleSdGothicNeo_Thin.woff") format('woff');
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "Apple SD Gothic Neo";
+    src: url("../font/AppleSdGothicNeo_UltraLight.woff2") format('woff2'),
+         url("../font/AppleSdGothicNeo_UltraLight.woff") format('woff');
+    font-weight: 200;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "Apple SD Gothic Neo";
+    src: url("../font/AppleSdGothicNeo_Light.woff2") format('woff2'),
+         url("../font/AppleSdGothicNeo_Light.woff") format('woff');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "Apple SD Gothic Neo";
+    src: url("../font/AppleSdGothicNeo_Regular.woff2") format('woff2'),
+         url("../font/AppleSdGothicNeo_Regular.woff") format('woff');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "Apple SD Gothic Neo";
+    src: url("../font/AppleSdGothicNeo_Medium.woff2") format('woff2'),
+         url("../font/AppleSdGothicNeo_Medium.woff") format('woff');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "Apple SD Gothic Neo";
+    src: url("../font/AppleSdGothicNeo_SemiBold.woff2") format('woff2'),
+         url("../font/AppleSdGothicNeo_SemiBold.woff") format('woff');
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "Apple SD Gothic Neo";
+    src: url("../font/AppleSdGothicNeo_Bold.woff2") format('woff2'),
+         url("../font/AppleSdGothicNeo_Bold.woff") format('woff');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "Apple SD Gothic Neo";
+    src: url("../font/AppleSdGothicNeo_ExtraBold.woff2") format('woff2'),
+         url("../font/AppleSdGothicNeo_ExtraBold.woff") format('woff');
+    font-weight: 800;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "Apple SD Gothic Neo";
+    src: url("../font/AppleSdGothicNeo_Heavy.woff2") format('woff2'),
+         url("../font/AppleSdGothicNeo_Heavy.woff") format('woff');
+    font-weight: 900;
+    font-style: normal;
+
+}
